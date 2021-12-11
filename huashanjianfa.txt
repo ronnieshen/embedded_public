@@ -4,3 +4,4 @@ iam develop manager!!
 ready go --worker 1
 author changed to ronnie --worker1
 ronnie do sth
+begin to app
