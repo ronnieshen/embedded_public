@@ -2,3 +2,4 @@ huashanjianfa tianxiadiyi
 i am developer 1
 iam develop manager!!
 ready go --worker 1
+author changed to ronnie --worker1
